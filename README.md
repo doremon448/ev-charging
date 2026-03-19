@@ -19,7 +19,7 @@ A full-stack web application to help users find and locate electric vehicle (EV)
 ### Backend
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web framework
-- **PostgreSQL** - Relational database
+- **MYSQL** - Relational database
 - **Sequelize** - ORM for PostgreSQL
 - **JWT** - Authentication
 - **bcryptjs** - Password hashing
